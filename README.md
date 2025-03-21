@@ -10,4 +10,11 @@
 <img src="https://shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 <a/>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=iliaskantzos&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+---
+
+### 👨‍💻: About me
+
