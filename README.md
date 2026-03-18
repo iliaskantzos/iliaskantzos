@@ -18,3 +18,30 @@
 
 ### 👨‍💻: About me
 
+# Hi, I'm Ilias 👋
+
+🎯 Entry-level QA Tester & Junior Developer
+
+## About Me
+
+I am an aspiring QA Tester with basic knowledge in manual testing and bug reporting.
+I also have experience in front-end development (HTML, CSS, JavaScript), which helps me understand how applications work and identify issues.
+
+## Skills
+
+* Manual Testing
+* Bug Reporting
+* Basic Test Case Creation
+* HTML, CSS, JavaScript
+* PHP & MySQL (basic)
+* Java (basic)
+
+## Projects
+
+* 📌 Forum Web Application (PHP & MySQL)
+* 📌 Countdown Launch Page (HTML, CSS, JS)
+* 📌 Contact Management System (Java)
+
+## Goal
+
+Looking for an entry-level QA Tester position to grow and gain experience in software testing.
