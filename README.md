@@ -41,4 +41,4 @@ I enjoy building responsive web applications and continuously improving my skill
 
 ## Goal
 
-Looking for an entry-level QA Tester position to grow and gain experience in software testing.
+Looking for an entry-level Front-End Developer position to gain hands-on experience and grow as a developer.
