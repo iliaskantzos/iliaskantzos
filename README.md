@@ -20,7 +20,9 @@
 
 # Hi, I'm Ilias 👋
 
-🎯 Entry-level QA Tester & Junior Developer
+💻 Front-End Developer focused on building responsive and user-friendly web applications.
+🚀 Currently improving my skills in JavaScript and modern web development.
+🔍 Strong attention to detail with a problem-solving mindset.
 
 ## About Me
 
