@@ -24,9 +24,9 @@ I am a Front-End Developer with hands-on experience in HTML, CSS, JavaScript, an
 I enjoy building responsive web applications and continuously improving my skills.
 ## Skills
 
-Frontend: HTML5, CSS3, JavaScript, Bootstrap
-Backend: (Basic): PHP, MySQL
-Programming: Java, Python, C#
+Frontend:HTML5, CSS3, JavaScript, Bootstrap
+Backend:(Basic): PHP, MySQL
+Programming:Java, Python, C#
 
 ## Projects
 
