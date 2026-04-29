@@ -20,10 +20,6 @@
 
 # Hi, I'm Ilias 👋
 
-💻 Front-End Developer focused on building responsive and user-friendly web applications.
-🚀 Currently improving my skills in JavaScript and modern web development.
-🔍 Strong attention to detail with a problem-solving mindset.
-
 I am a Front-End Developer with hands-on experience in HTML, CSS, JavaScript, and Bootstrap, through personal projects. I have also worked with PHP and MySQL at a basic level.
 I enjoy building responsive web applications and continuously improving my skills.
 ## Skills
