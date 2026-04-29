@@ -30,12 +30,12 @@ I am a Front-End Developer with hands-on experience in HTML, CSS, JavaScript, an
 I enjoy building responsive web applications and continuously improving my skills. My background in testing helps me identify issues quickly and write cleaner, more reliable code.
 ## Skills
 
-* Manual Testing
-* Bug Reporting
-* Basic Test Case Creation
-* HTML, CSS, JavaScript
-* PHP & MySQL (basic)
-* Java (basic)
+Skills
+
+* HTML5, CSS3, JavaScript
+* Bootstrap (Responsive Design)
+* PHP & MySQL (Basic Backend Development)
+* Java (Basic OOP Concepts)
 
 ## Projects
 
