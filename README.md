@@ -25,7 +25,7 @@ I enjoy building responsive web applications and continuously improving my skill
 ## Skills
 
 Frontend: HTML5, CSS3, JavaScript, Bootstrap
-Backend (Basic): PHP, MySQL
+Backend: (Basic): PHP, MySQL
 Programming: Java, Python, C#
 
 ## Projects
