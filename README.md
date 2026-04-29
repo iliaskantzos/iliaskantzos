@@ -25,7 +25,7 @@
 🔍 Strong attention to detail with a problem-solving mindset.
 
 I am a Front-End Developer with hands-on experience in HTML, CSS, JavaScript, and Bootstrap, through personal projects. I have also worked with PHP and MySQL at a basic level.
-I enjoy building responsive web applications and continuously improving my skills. My background in testing helps me identify issues quickly and write cleaner, more reliable code.
+I enjoy building responsive web applications and continuously improving my skills.
 ## Skills
 
 * HTML5, CSS3, JavaScript
