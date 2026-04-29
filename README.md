@@ -26,9 +26,8 @@
 
 ## About Me
 
-I am an aspiring QA Tester with basic knowledge in manual testing and bug reporting.
-I also have experience in front-end development (HTML, CSS, JavaScript), which helps me understand how applications work and identify issues.
-
+I am a Front-End Developer with hands-on experience in HTML, CSS, JavaScript, and Bootstrap, through personal projects. I have also worked with PHP and MySQL at a basic level.
+I enjoy building responsive web applications and continuously improving my skills. My background in testing helps me identify issues quickly and write cleaner, more reliable code.
 ## Skills
 
 * Manual Testing
