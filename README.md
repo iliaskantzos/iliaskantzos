@@ -28,6 +28,8 @@ I enjoy building responsive web applications and continuously improving my skill
 * Bootstrap (Responsive Design)
 * PHP & MySQL (Basic Backend Development)
 * Java (Basic OOP Concepts)
+* Python (Basic)
+* C# (Basic)
 
 ## Projects
 
